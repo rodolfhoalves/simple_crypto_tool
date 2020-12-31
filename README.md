@@ -3,7 +3,7 @@ Simple Crypto Tool
 
 Conpile:
 ```
-pyinstaller --onefile -w .\crypto_tool_01.py
+pyinstaller --onefile -w -i icon.ico .\crypto_tool_01.py
 
 ```
 
